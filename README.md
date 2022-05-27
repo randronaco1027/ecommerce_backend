@@ -16,11 +16,22 @@ The server can then be started with `npm start`.
 
 In Insomnia the user can GET all the routes for the full databases by using the URL http://localhost:3001/api/ + either "tags", "products" or categories. The user can also add "/:id" to the end of the URL to view a specific ID. They then have the option to add (POST), update (PUT) or delete (DELETE) an ID.
 
-## Walkthrough Video
-https://drive.google.com/file/d/12BKY78hpshv28wRp4deUgzAwFhGjVrWe/view?usp=sharing 
+## Walkthrough Videos
+Command Line
+https://drive.google.com/file/d/1B95GFDIseIMGVyRSc6hCX7lAx61qBNu5/view?usp=sharing
+
+GET Routes
+https://drive.google.com/file/d/1W7GQFv8xoAM6kvRhng08KjlatavM7Hel/view?usp=sharing
+
+GET by ID Routes
+https://drive.google.com/file/d/11Yb0AyocgOizlyfQUM9gNaUGIb4e_VLg/view?usp=sharing
+
+POST PUT DELETE Routes
+https://drive.google.com/file/d/1aVlkrpBdCCraljYLmBw_uO2wHVFb5U-f/view?usp=sharing 
 
 ## Preview of application
-![preview of application](./assets/images/preview.png)
+![POST preview](./assets/images/POST-Preview.png)
+![GET preview](./assets/images/GET-Preview.png)
 
 ## Packages Used
 mySQL2 Package
